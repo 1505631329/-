@@ -4,28 +4,34 @@
 
 ### 教学项目
  1.文化课 艺术培训课<br />
+ <br />
  2.中小学暑假教育文化素质辅导
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1505631329/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+ 
+<pre>
+ 
+
+
+
+
+
+ 
+<p>版权所有©2018 安徽巧学教育科技公司</p>
+<p>地址：芜湖市弋江区科创园 皖ICP备05016725号</p>
+</pre>
